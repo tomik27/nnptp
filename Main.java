@@ -1,1 +1,4 @@
-public class blabla
+public class Blabla{
+
+public staic bla
+}
